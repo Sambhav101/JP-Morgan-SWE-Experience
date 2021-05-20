@@ -1,0 +1,45 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/JPMC-tech-task-2-PY3/node_modules
+/JPMC-tech-task-2-PY3/.pnp
+/JPMC-tech-task-2-PY3/.pnp.js
+
+# testing
+/JPMC-tech-task-2-PY3/coverage
+
+# production
+/JPMC-tech-task-2-PY3/build
+
+# misc
+/JPMC-tech-task-2-PY3/.DS_Store
+/JPMC-tech-task-2-PY3/.env.local
+/JPMC-tech-task-2-PY3/.env.development.local
+/JPMC-tech-task-2-PY3/.env.test.local
+/JPMC-tech-task-2-PY3/.env.production.local
+
+/JPMC-tech-task-2-PY3/npm-debug.log*
+/JPMC-tech-task-2-PY3/yarn-debug.log*
+/JPMC-tech-task-2-PY3/yarn-error.log*
+
+# dependencies
+/JPMC-tech-task-3-PY3/node_modules
+/JPMC-tech-task-3-PY3/.pnp
+/JPMC-tech-task-3-PY3/.pnp.js
+
+# testing
+/JPMC-tech-task-3-PY3/coverage
+
+# production
+/JPMC-tech-task-3-PY3/build
+
+# misc
+/JPMC-tech-task-3-PY3/.DS_Store
+/JPMC-tech-task-3-PY3/.env.local
+/JPMC-tech-task-3-PY3/.env.development.local
+/JPMC-tech-task-3-PY3/.env.test.local
+/JPMC-tech-task-3-PY3/.env.production.local
+
+/JPMC-tech-task-3-PY3/npm-debug.log*
+/JPMC-tech-task-3-PY3/yarn-debug.log*
+/JPMC-tech-task-3-PY3/yarn-error.log*
